@@ -18,7 +18,6 @@ zuul:
     order-service: /order-service/**
   retryable: true   #∆Ù”√÷ÿ ‘
 
-
 ribbon:
   ConnectIimeout: 1000
   ReadTimeout: 1000
